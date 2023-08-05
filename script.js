@@ -46,7 +46,7 @@ const handlePause = () => {
 // STOP BTN
 const handleStop = () => {
 
-    time.innerHTML = `Last time: ${stopwatch.textContent}`
+    time.innerHTML = `Time: ${stopwatch.textContent}`
 
     if (stopwatch.textContent !== '0:00') {
         time.style.visibility = 'visible';

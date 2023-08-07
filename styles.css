@@ -26,7 +26,7 @@ body {
     justify-content: center;
     align-items: center;
     padding: 25px;
-    width: 450px;
+    width: 390px;
     background: radial-gradient(circle, rgb(43, 44, 46) 10%, rgb(25, 25, 25) 93%);
     border-radius: 8px;
     box-shadow: 5px 5px 10px black;
@@ -50,14 +50,14 @@ body {
 
 h1 {
     margin-bottom: 20px;
-    font-size: 50px;
+    font-size: 40px;
     font-weight: lighter;
 }
 
 .stopwatch {
     font-size: 72px;
     color: var(--first-color);
-    margin-left: 100px;
+    margin-left: 70px;
 }
 
 .time {
